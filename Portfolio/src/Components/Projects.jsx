@@ -64,8 +64,8 @@ const Projects = () => {
             title="Portfolio Website"
             para="Personal portfolio website created with react and Tailwind CSS"
             img={Portfolio}
-            link=""
-            github_link=""
+            link="https://portfolio-yatendra-kumar.netlify.app/"
+            github_link="https://github.com/Yatendrakumar627/Portfolio"
             react={
               <Tooltip title="React" arrow>
                 <IconButton>
